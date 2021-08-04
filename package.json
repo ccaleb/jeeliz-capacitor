@@ -1,0 +1,30 @@
+{
+  "name": "jeeliz-capacitor",
+  "version": "0.0.1",
+  "author": "Ionic Framework",
+  "homepage": "https://ionicframework.com/",
+  "scripts": {
+    "start": "serve ./www"
+  },
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.6",
+    "@capacitor/core": "2.4.6",
+    "@capacitor/ios": "^2.4.6",
+    "@ionic/angular": "^5.5.2",
+    "rxjs": "~6.6.0",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.10.2",
+    "https-localhost": "^4.6.5"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "2.4.6",
+    "@ionic/angular-toolkit": "^3.1.0",
+    "@types/node": "^12.11.1",
+    "codelyzer": "^6.0.0",
+    "ts-node": "~8.3.0",
+    "tslint": "~6.1.0",
+    "typescript": "~4.0.2"
+  },
+  "description": "A Jeeliz project wrapped into a native app using Capacitor."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Jeeliz Capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
