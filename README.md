@@ -1,6 +1,6 @@
 # Jeeliz Capacitor Example
 
-This project takes a demo based on jeelizFaceFiler/demos/canvas2D from the [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) repo, and wraps it in a native app using [CapacitorJS](https://capacitorjs.com/).
+This project takes a demo based on jeelizFaceFiler/demos/canvas2D from the [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter/tree/master/demos/canvas2D/faceTrack) repo, and wraps it in a native app using [CapacitorJS](https://capacitorjs.com/).
 
 ## Project setup
 ```
@@ -24,7 +24,7 @@ Launch browser on mobile device and enter development computer's IP address into
 ### Building app on Android
 ```
 npx cap add android
-npx cap open Android
+npx cap open android
 ```
 
 Within Android Studio add the following permissions to app/manifests/AndroidManifest.xml:
